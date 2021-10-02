@@ -27,9 +27,9 @@ const LinksHeader = ()=>{
             <Text>Community</Text> */}
             <OneLinkHeader nome="Home"/>
             <OneLinkHeader nome="Post"/>
-            <OneLinkHeader nome="Videos"/>
+            <OneLinkHeader nome="Vídeos"/>
             <OneLinkHeader nome="Photos"/>
-            <OneLinkHeader nome="Community"/>
+            <OneLinkHeader nome="Talk"/>
         </View>
     );
 };
